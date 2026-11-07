@@ -51,6 +51,12 @@
      "en": "Operations",
      "ru": "Операции"
     }
+   },
+   "cat-other": {
+    "title": {
+     "en": "Other",
+     "ru": "Прочее"
+    }
    }
   },
   "labels": {},
